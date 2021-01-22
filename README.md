@@ -2,9 +2,7 @@
 
 
 
-ex2data1.txt - Training set for the first half of the exercise
 
-ex2data2.txt - Training set for the second half of the exercise
 
 
 
